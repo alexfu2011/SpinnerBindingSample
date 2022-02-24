@@ -1,4 +1,4 @@
-package com.sz.spinnerbindingsample;
+package com.example.spinnerbindingsample;
 
 import org.junit.Test;
 
